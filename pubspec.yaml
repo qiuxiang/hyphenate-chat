@@ -1,8 +1,8 @@
 name: hyphenate_chat
 description: A new flutter plugin project.
 version: 0.0.1
-author:
-homepage:
+author: 7c00 <i@7c00.cc>
+homepage: https://github.com/qiuxiang/hyphenate-chat
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
